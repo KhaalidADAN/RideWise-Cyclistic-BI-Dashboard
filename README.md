@@ -1,6 +1,4 @@
-# RideWise-Cyclistic-BI-Dashboard
 # **RideWise: Cyclistic Insights Dashboard**
-
 ## **Project Overview**
 The **RideWise** project is a business intelligence (BI) dashboard designed for **Cyclistic**, a fictional bike-sharing company based in New York City. The dashboard provides valuable insights into customer behavior, bike station demand, and usage patterns, helping Cyclistic optimize their services and grow their customer base.
 
